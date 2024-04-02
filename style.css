@@ -1,0 +1,405 @@
+body{
+    font-family: sans-serif;
+}
+.power
+{
+    background-image: url(bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    color: white;
+    padding-left:10%;
+    padding-right: 10%;
+  
+}
+.cart
+{
+    font-size:30px;
+}
+.btn
+{
+    color:rgb(170,170,170);
+    position: relative;
+    left:20%;
+    
+}
+.start
+{
+    background-color:#333333;
+    border-radius:50px;
+    color: white;
+    position: relative;
+    left:20%;
+}
+.digital
+{
+    font-size:70px;
+   padding-top: 10%;
+}
+.money
+{
+    font-size:15px;
+   padding-top: 20%;
+   padding-left:40%;
+   color:rgb(170,170,170);
+   
+}
+.button1
+{
+    background-color: rgb(143, 228, 78);
+    border-radius:50px;
+    padding: 0 5% 0 5%;
+    color: black;
+    font-size: 30px;
+    position: relative;
+    top:5%;
+    left: 35%;
+}
+.stop-button {
+    border: none;
+    background-color:#333333;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left:90%;
+    margin-bottom:150%;
+   
+  }
+  
+  .stop-button:hover {
+    background-color:black;
+  }
+  
+  .stop-icon {
+    width: 40px;
+    height: 40px;
+    background-image: url('button.png'); 
+    background-size: cover;
+  }
+  .second
+  {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  .number
+  {
+    color:rgb(170,170,170);;
+    opacity: 0.2;
+    font-size:200px;
+    position: relative;
+    left: -4%;
+  }
+  .text
+  {
+    font-size: 19px;
+    color: #3b3a3a;
+    opacity: 0.9;
+    position: relative;
+    top:-25%;
+    left:10%;
+  }
+.text2
+{
+    font-size:45px;
+    font-weight: bold;
+    position: relative;
+    top:-25%;
+    left:10%;
+}
+.bro
+{
+    position: relative;
+    top:-20px;
+}
+.para
+{
+    position: relative;
+    top: -25%;
+    padding-left: 10%;
+    text-align: justify;
+    font-size: 20px;
+}
+.start2
+{
+    background-color:#333333;
+    border-radius:50px;
+    color: white;
+   position: relative;
+   left:-50%;
+   top: -150px;
+}
+.button2
+{
+    position: relative;
+    top:-50%;
+   margin-left:-15%;
+}
+.tttt
+{
+    padding-left: 10%;
+}
+.learn
+{
+    position: relative;
+    top:-28%;
+    left:60%;
+    margin-left:-15%;
+}
+.protection
+{ 
+    height:150px;
+    width: 150px;
+    border-radius:20px;
+    background-color:rgb(170,170,170);
+    opacity: 0.2;
+    position: relative;
+    top:100px;
+    padding: 2% 2% 2% 2%;
+    margin-bottom: 20px;
+}
+.protection:hover
+{
+    background-color: black;
+    opacity: 1;
+    color: white;
+    height:165px;
+    width: 165px;
+
+}
+.shield
+{
+    font-size:60px;
+    opacity: 0.3;
+}
+.cell-spacing
+{
+    padding-right:30px;
+}
+.color
+{
+    width: 10%;
+    height: 20%;
+}
+.third
+{
+    position: relative;
+    top:-25%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.para2
+{
+    padding-top:36%;
+    font-size:15px;
+    padding-left: 10%;
+    color:#3b3a3a;
+    opacity: 0.5;
+}
+.number2
+  {
+    color:rgb(170,170,170);;
+    opacity: 0.2;
+    font-size:200px;
+    position: relative;
+    left: -4%;
+  }
+  .text3
+  {
+    font-size: 19px;
+    color: #3b3a3a;
+    opacity: 0.9;
+    position: relative;
+    top:-40%;
+    left:10%;
+  }
+.text4
+{
+    font-size:45px;
+    font-weight: bold;
+    position: relative;
+    top:-40%;
+    left:10%;
+}
+.globe
+{
+    border-radius:20px;
+    background-color:rgb(170,170,170);
+    opacity: 0.3;
+    position: relative;
+    top:100px;
+    padding: 6% 0% 8% 0%;
+    width:70%;
+}
+.shield1
+{
+    font-size:60px;
+    color: black;
+}
+.abr
+{
+    color: #3b3a3a;
+    opacity: 0.4;
+}
+.globe1
+{
+    border-radius:20px;
+    background-color:rgba(170,170,170,0.3);
+    position: relative;
+    top:100px;
+    padding: 6% 0% 8% 0%;
+    width:70%;
+}
+.know
+{
+    position: relative;
+    top:-220px;
+}
+.fifth
+{
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 60px;
+    position: relative;
+    top: -160px;
+}
+.text5
+{
+    font-size:45px;
+    font-weight: bold;
+    position: relative;
+    top:-40%;
+    left:10%;
+    color: white;
+}
+.nbr
+{
+    position: relative;
+    top:-40px;
+}
+.text5
+{
+    font-size:45px;
+    font-weight: bold;
+    position: relative;
+    top:-25%;
+    left:10%;
+    color: white;
+}
+.button3
+{
+    background-color: rgb(143, 228, 78);
+    border-radius:50px;
+    padding: 2% 5% 2% 5%;
+    color: black;
+    position: relative;
+    left: -0%;
+    margin-bottom:30%;
+  
+}
+.fourth
+{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.para3
+{
+    padding-top: 25%;
+    font-size: 15px;
+    padding-right: 41%;
+    color: #3b3a3a;
+    opacity: 0.5;
+}
+.square
+{
+    height:250px;
+    width: 250px;
+    border-radius:20px;
+    background-color:rgb(170,170,170);
+    opacity: 0.2;
+    position: relative;
+    top:100px;
+    padding: 8% 2% 2% 2%;
+    margin-bottom: 20px;
+}
+.third{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.logo
+{
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+.logo1
+{
+    padding-top:20%;
+}
+.logo2
+{
+    font-size:30px;
+    color: white;
+    font-weight: bold;
+   
+}
+.circle
+{
+    font-size:90px;
+    
+}
+.lolo
+{
+    padding-top:25%;
+}
+.logo3
+{
+    padding-top:10%;
+}
+.online
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    position: relative;
+    top:-250px;
+}
+.photo
+{
+    border-radius:50px;
+    position: relative;
+    top:-150px;
+}
+.six
+{
+    color: white;
+  background-image:url(bg4.jpg);
+  background-size: cover;
+}
+.text6
+{
+    padding-top:10%;
+    font-size: 45px;
+}
+.img
+{
+    width:10%;
+    position: relative;
+    left: -15%;
+}
+.foot
+{
+  font-size: 12px;
+  color:rgb(170,170,170);
+}
+.bottom1
+{
+    position: relative;
+    left: -25%;
+}
+.bottom2
+{
+    position: relative;
+    left: 25%;
+}
